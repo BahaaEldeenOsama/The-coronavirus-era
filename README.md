@@ -7,5 +7,9 @@
 
 
 
+
+
+
 AI-driven tools in Coronavirus outbreak
-![22](https://user-images.githubusercontent.com/36152933/106388615-07d69d00-63e8-11eb-8a0e-63ee364b4f5a.png)
+![2](https://user-images.githubusercontent.com/36152933/106388667-4ec49280-63e8-11eb-8a46-8cbc47264cb4.png)
+
