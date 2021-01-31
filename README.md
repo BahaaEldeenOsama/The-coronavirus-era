@@ -8,6 +8,6 @@
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;
-###AI-driven tools in Coronavirus outbreak
+### AI-driven tools in Coronavirus outbreak
 ![2](https://user-images.githubusercontent.com/36152933/106388728-8a5f5c80-63e8-11eb-9af8-be77716e4907.png)
 
